@@ -1,3 +1,4 @@
+![logo](https://github.com/RamakrishnanSenapathi/RamakrishnanSenapathi/blob/main/ram%20new%20profile%20pic%201.jpg)
 <h1 align="center">Hi 👋, I'm Ramakrishnan S</h1>
 <h3 align="center">student</h3>
 
