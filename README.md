@@ -1,6 +1,6 @@
 ![logo](https://github.com/RamakrishnanSenapathi/RamakrishnanSenapathi/blob/main/ram%20new%20profile%20pic%201.jpg)
 <h1 align="center">Hi 👋, I'm Ramakrishnan S</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Student</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ramakrishnan-senapathi-5b6647229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
