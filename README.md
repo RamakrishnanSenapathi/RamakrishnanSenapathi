@@ -1,4 +1,3 @@
-![logo](https://github.com/RamakrishnanSenapathi/RamakrishnanSenapathi/blob/main/ram%20new%20profile%20pic%201.jpg)
 <h1 align=center>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -19,14 +18,18 @@
 
 <div id="Badges">
   <a href="https://www.linkedin.com/in/ramakrishnan-senapathi-5b6647229/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  
+<a href="https://www.kaggle.com/rocky005" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%232E87FB.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a> 
+<a href="https://github.com/RamakrishnanSenapathi" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 </div>
 
 
 
 <img src="https://komarev.com/ghpvc/?username=RamakrishnanSenapathi&style=flat-square&color=blue" alt=""/>
 <h1>Languages and Tools :</h2>
-![](https://img.shields.io/badge/code-React-informational?style=flat&logo=react&logoColor=white&color=FFAE42)
 <img src="https://img.shields.io/badge/java-advanced-green"</>
 
-
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=Kaggle&logoColor=white&color=0D76A8)](https://www.kaggle.com/gokulachalamk)
