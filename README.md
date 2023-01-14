@@ -28,6 +28,14 @@
 
 <h1>Skill's :</h1>
  <i>machine learning,Deep Learning, full Stack Development</i>
+<h1> Front End Development</h1>
+<p><b>CSS</b></P>
+<p><b>HTML</b></p>
+<h1> Back End Development</h1>
+<p><b>Hadoop</b></p>
+<p><b>Mysql</b></p>
+<p><b>MongoDB</b></p>
+
 
 
 ### :fire: My Stats :
