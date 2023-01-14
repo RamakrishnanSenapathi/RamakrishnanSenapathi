@@ -26,7 +26,7 @@
 <h1>Programming Languages :</h2>
 <img src="https://img.shields.io/badge/advanced-java-green"</> <img src="https://img.shields.io/badge/advanced-python-blue"</><img src="https://img.shields.io/badge/code-c-green"</><img src="https://img.shields.io/badge/code-javaScript-green"</>
 
-<h1>Skill's :</h1>
+<h1>Area Of Interest :</h1>
  <i>machine learning,Deep Learning, full Stack Development</i>
 <h1> Front End Development</h1>
 <p><b>CSS</b></P>
@@ -35,6 +35,16 @@
 <p><b>Hadoop</b></p>
 <p><b>Mysql</b></p>
 <p><b>MongoDB</b></p>
+<p><b>Flask</b></p>
+
+<h1>Technologies Know 🎯</h1>
+<div>
+  
+ ![numpy](https://user-images.githubusercontent.com/107131277/211266513-b7faefb9-f0af-4c0d-9e6a-e993ccb51edf.svg)
+  ![pandas](https://user-images.githubusercontent.com/107131277/211266641-edd5467d-4e87-4d83-b89d-ae6ed52fedba.svg)
+  ![matplotlib](https://user-images.githubusercontent.com/107131277/211266773-d4611e67-7414-41a6-8f96-3fe0e602b58a.svg)
+  ![seaborn](https://user-images.githubusercontent.com/107131277/211266905-5fc539e2-28fb-44dc-9714-0c4d2ed7eb3f.svg)
+</div>
 
 
 
