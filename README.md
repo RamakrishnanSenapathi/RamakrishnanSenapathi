@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <h1>About Myself</h1>
-<h4>Iam Ramakrishnan student of KPR Institute of Engineering and Technology, where Iam currently pursuing  B.Tech degree in Artificial Intelligence and Data Science. I  has already completed some projects in the fields of machine learning and deep learning.</h4>
+<h4>Iam Ramakrishnan student of KPR Institute of Engineering and Technology, where Iam currently pursuing  B.Tech degree in Artificial Intelligence and Data Science. I has already completed some projects in the fields of machine learning and deep learning.</h4>
 
 
 
@@ -27,9 +27,8 @@
 <img src="https://img.shields.io/badge/advanced-java-green"</> <img src="https://img.shields.io/badge/advanced-python-blue"</><img src="https://img.shields.io/badge/code-c-green"</><img src="https://img.shields.io/badge/code-javaScript-green"</>
 
 <h1>Skill's :</h1>
- <p>machine learning
-  Deep Learning
-full stack development</p>
+ <i>machine learning,Deep Learning, full Stack Development</i>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RamakrishnanSenapathi&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -37,6 +36,8 @@ full stack development</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrishnanSenapathi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
+---
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+---
 
