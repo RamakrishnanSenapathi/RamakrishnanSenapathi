@@ -12,10 +12,7 @@
 
 
 
-
-
-
-
+<h1>Connect with me :</h1>
 <div id="Badges">
   <a href="https://www.linkedin.com/in/ramakrishnan-senapathi-5b6647229/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://www.kaggle.com/rocky005" target="_blank">
@@ -25,11 +22,17 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
-
-
-
 <img src="https://komarev.com/ghpvc/?username=RamakrishnanSenapathi&style=flat-square&color=blue" alt=""/>
 <h1>Languages and Tools :</h2>
-<img src="https://img.shields.io/badge/java-advanced-green"</>
+<img src="https://img.shields.io/badge/advanced-java-green"</> <img src="https://img.shields.io/badge/advanced-python-blue"</><img src="https://img.shields.io/badge/code-c-green"</><img src="https://img.shields.io/badge/code-javaScript-green"</>
 
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=Kaggle&logoColor=white&color=0D76A8)](https://www.kaggle.com/gokulachalamk)
+<h1>Skill's :</h1>
+ <p>machine learning
+  Deep Learning
+full stack development</p>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RamakrishnanSenapathi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamakrishnanSenapathi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
