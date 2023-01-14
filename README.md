@@ -44,6 +44,8 @@
   ![pandas](https://user-images.githubusercontent.com/107131277/211266641-edd5467d-4e87-4d83-b89d-ae6ed52fedba.svg)
   ![matplotlib](https://user-images.githubusercontent.com/107131277/211266773-d4611e67-7414-41a6-8f96-3fe0e602b58a.svg)
   ![seaborn](https://user-images.githubusercontent.com/107131277/211266905-5fc539e2-28fb-44dc-9714-0c4d2ed7eb3f.svg)
+  ![scikit-learn](https://user-images.githubusercontent.com/107131277/211267421-3b9c3e69-af27-45f0-bc85-9b1b8a22594e.svg)
+  ![tensorflow](https://user-images.githubusercontent.com/107131277/211267505-e4085391-32ee-49c5-9ef3-f512e8e568ed.svg)
 </div>
 
 
