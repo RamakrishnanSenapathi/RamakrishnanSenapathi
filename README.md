@@ -23,7 +23,7 @@
 </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=RamakrishnanSenapathi&style=flat-square&color=blue" alt=""/>
-<h1>Languages and Tools :</h2>
+<h1>Languages :</h2>
 <img src="https://img.shields.io/badge/advanced-java-green"</> <img src="https://img.shields.io/badge/advanced-python-blue"</><img src="https://img.shields.io/badge/code-c-green"</><img src="https://img.shields.io/badge/code-javaScript-green"</>
 
 <h1>Skill's :</h1>
