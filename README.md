@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <h1>About Myself</h1>
-<h4>Iam Ramakrishnan student of KPR Institute of Engineering and Technology, where Iam currently pursuing  B.Tech degree in Artificial Intelligence and Data Science. I has already completed some projects in the fields of machine learning and deep learning.</h4>
+<h4>Iam Ramakrishnan Software Engineer @ Trigent Software solutions having 2.8 years of experience worked in Gen AI full stack developer , designed modern web application with Ai chat bot </h4>
 
 
 
